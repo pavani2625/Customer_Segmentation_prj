@@ -7,6 +7,7 @@ Customer Segmentation Using K-Means Clustering
 
 📂 Dataset
 - Source:Mall Customer Segmentation Data(kaggle)
+- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 - Columns: CustomerID, Gender, Age, Annual Income, Spending Score
 
 ->Steps:
